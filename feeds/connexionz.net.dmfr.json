@@ -1,11 +1,11 @@
 {
-  "$schema": "https://dmfr.transit.land/json-schema/dmfr.schema-v0.4.0.json",
+  "$schema": "https://dmfr.transit.land/json-schema/dmfr.schema-v0.4.1.json",
   "feeds": [
     {
       "id": "f-9q6-kcapta~ca~us",
       "spec": "gtfs",
       "urls": {
-        "static_current": "https://www.kartbus.org/data/gtfs.zip",
+        "static_current": "http://kart.connexionz.net/rtt/public/utility/gtfs.aspx",
         "static_historic": [
           "http://data.trilliumtransit.com/gtfs/kcapta-ca-us/kcapta-ca-us.zip"
         ]
@@ -92,6 +92,28 @@
       ]
     },
     {
+      "id": "f-c20-yamhillcounty~or~us",
+      "spec": "gtfs",
+      "urls": {
+        "static_current": "http://ycta.connexionz.net/rtt/public/resource/gtfs.zip",
+        "static_historic": [
+          "https://oregon-gtfs.trilliumtransit.com/gtfs_data/yamhill-or-us/yamhill-or-us.zip"
+        ]
+      },
+      "operators": [
+        {
+          "onestop_id": "o-c20-yamhillcountytransitarea",
+          "name": "Yamhill County Transit Area",
+          "short_name": "YCTA",
+          "website": "https://ycbus.org/",
+          "tags": {
+            "us_ntd_id": "0R02-00321",
+            "wikidata_id": "Q60770365"
+          }
+        }
+      ]
+    },
+    {
       "id": "f-dr5r-nycferry",
       "spec": "gtfs",
       "urls": {
@@ -129,6 +151,42 @@
         "realtime_vehicle_positions": "http://kart.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/vehicleposition",
         "realtime_trip_updates": "http://kart.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/tripupdate",
         "realtime_alerts": "http://kart.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/alert"
+      }
+    },
+    {
+      "id": "f-muskegon~area~transit",
+      "spec": "gtfs",
+      "urls": {
+        "static_current": "https://muskegon.connexionz.net/rtt/public/utility/gtfs.aspx"
+      },
+      "operators": [
+        {
+          "onestop_id": "o-muskegon~area~transit",
+          "name": "Muskegon Area Transit System",
+          "short_name": "MATS",
+          "website": "https://matsbus.com/",
+          "associated_feeds": [
+            {
+              "feed_onestop_id": "f-muskegon~area~transit"
+            },
+            {
+              "feed_onestop_id": "f-muskegon~area~transit~rt"
+            }
+          ],
+          "tags": {
+            "us_ntd_id": "50037",
+            "wikidata_id": "Q6942749"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f-muskegon~area~transit~rt",
+      "spec": "gtfs-rt",
+      "urls": {
+        "realtime_vehicle_positions": "https://muskegon.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/vehicleposition",
+        "realtime_trip_updates": "https://muskegon.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/tripupdate",
+        "realtime_alerts": "https://muskegon.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/alert"
       }
     },
     {

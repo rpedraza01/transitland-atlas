@@ -1,5 +1,5 @@
 {
-  "$schema": "https://dmfr.transit.land/json-schema/dmfr.schema-v0.4.0.json",
+  "$schema": "https://dmfr.transit.land/json-schema/dmfr.schema-v0.4.1.json",
   "feeds": [
     {
       "id": "f-dr7cc-norwalktransit",
@@ -18,6 +18,9 @@
           "associated_feeds": [
             {
               "gtfs_agency_id": "norwalktransit"
+            },
+            {
+              "feed_onestop_id": "f-dr7cc-norwalktransit~rt"
             }
           ],
           "tags": {
@@ -27,6 +30,15 @@
           }
         }
       ]
+    },
+    {
+      "id": "f-dr7cc-norwalktransit~rt",
+      "spec": "gtfs-rt",
+      "urls": {
+        "realtime_vehicle_positions": "https://mystop.norwalktransit.com/InfoPoint/gtfs-realtime.ashx?type=vehicleposition",
+        "realtime_trip_updates": "https://mystop.norwalktransit.com/InfoPoint/gtfs-realtime.ashx?type=tripupdate",
+        "realtime_alerts": "https://mystop.norwalktransit.com/InfoPoint/gtfs-realtime.ashx?type=alert"
+      }
     }
   ],
   "license_spdx_identifier": "CDLA-Permissive-1.0"

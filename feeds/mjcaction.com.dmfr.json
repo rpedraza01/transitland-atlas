@@ -1,5 +1,5 @@
 {
-  "$schema": "https://dmfr.transit.land/json-schema/dmfr.schema-v0.4.0.json",
+  "$schema": "https://dmfr.transit.land/json-schema/dmfr.schema-v0.4.1.json",
   "feeds": [
     {
       "id": "f-9q611-morrobaytransit",
@@ -153,36 +153,6 @@
             "twitter_general": "realghtransit",
             "us_ntd_id": "0R03-00314",
             "wikidata_id": "Q25000402"
-          }
-        }
-      ]
-    },
-    {
-      "id": "f-c25y-valleytransit",
-      "spec": "gtfs",
-      "urls": {
-        "static_historic": [
-          "http://mjcaction.com/MJC_GTFS_Public/valley_google_transit.zip"
-        ]
-      },
-      "license": {
-        "url": "http://mjcaction.com/MJC_GTFS_Public/Valley_Transit_Data_Terms_of_Use.pdf"
-      },
-      "tags": {
-        "managed_by": "mjc"
-      },
-      "operators": [
-        {
-          "onestop_id": "o-c25y-valleytransit",
-          "name": "Valley Transit",
-          "website": "http://www.valleytransit.com/",
-          "associated_feeds": [
-            {
-              "gtfs_agency_id": "walla2"
-            }
-          ],
-          "tags": {
-            "us_ntd_id": "00064"
           }
         }
       ]
