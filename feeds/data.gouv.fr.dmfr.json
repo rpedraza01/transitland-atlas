@@ -22,6 +22,31 @@
       }
     },
     {
+      "id": "f-dunkerque~fr",
+      "spec": "gtfs",
+      "urls": {
+        "static_current": "https://www.data.gouv.fr/fr/datasets/r/18ee1aa1-27a8-44a1-957e-199f940c7e90"
+      },
+      "license": {
+        "spdx_identifier": "ODbL-1.0",
+        "url": "https://transport.data.gouv.fr/datasets/offre-de-transports-reseau-dk-bus-de-la-communaute-urbaine-de-dunkerque-gtfs",
+        "share_alike_optional": "no"
+      }
+    },
+    {
+      "id": "f-eurostar",
+      "spec": "gtfs",
+      "urls": {
+        "static_current": "https://www.data.gouv.fr/fr/datasets/r/9089b550-696e-4ae0-87b5-40ea55a14292",
+        "static_historic": [
+          "https://s3.eu-west-2.amazonaws.com/feeds.planar.network/eurostar.zip"
+        ]
+      },
+      "license": {
+        "url": "https://transport.data.gouv.fr/datasets/eurostar-gtfs"
+      }
+    },
+    {
       "id": "f-karouest~reunion",
       "spec": "gtfs",
       "urls": {
@@ -430,6 +455,18 @@
           ]
         }
       ]
+    },
+    {
+      "id": "f-troyes~tcat~fr",
+      "spec": "gtfs",
+      "urls": {
+        "static_current": "https://www.data.gouv.fr/fr/datasets/r/79151f50-b842-4fa9-a4b5-046c0029417b"
+      },
+      "license": {
+        "spdx_identifier": "ODbL-1.0",
+        "url": "https://transport.data.gouv.fr/datasets/donnees-tcat-troyes-champagne-metropole-1",
+        "share_alike_optional": "no"
+      }
     },
     {
       "id": "f-u0kz-optymo~belfort",
