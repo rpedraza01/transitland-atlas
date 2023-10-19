@@ -1713,7 +1713,7 @@
       "id": "f-donkey~republic~utrechtse~heuvelrug~nl~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://gbfs-validator.mobilitydata.org/validator?url=https%3A%2F%2Fstables.donkey.bike%2Fapi%2Fpublic%2Fgbfs%2F2%2Fdonkey_utrechtse_heuvelrug%2Fgbfs.json"
+        "gbfs_auto_discovery": "https://stables.donkey.bike/api/public/gbfs/2/donkey_utrechtse_heuvelrug/gbfs.json"
       }
     },
     {
@@ -2228,13 +2228,6 @@
       }
     },
     {
-      "id": "f-giulianova~it~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/it_giulianova/gbfs.json"
-      }
-    },
-    {
       "id": "f-goabout~netherlands~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -2739,13 +2732,6 @@
       }
     },
     {
-      "id": "f-isola~delle~femmine~it~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/it_isola_delle_femmine/gbfs.json"
-      }
-    },
-    {
       "id": "f-jackson~county~mi~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -2862,13 +2848,6 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://www.mobidata-bw.de/data/LastenveloFR/gbfs.json"
-      }
-    },
-    {
-      "id": "f-lazio~it~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/it_lazio/gbfs.json"
       }
     },
     {
@@ -3145,10 +3124,24 @@
       }
     },
     {
+      "id": "f-link~almada~pt~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/pt_almada/gbfs.json"
+      }
+    },
+    {
       "id": "f-link~arlington~va~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/us_va_arlington/gbfs.json"
+      }
+    },
+    {
+      "id": "f-link~austin~tx~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/us_tx_austin/gbfs.json"
       }
     },
     {
@@ -3173,10 +3166,10 @@
       }
     },
     {
-      "id": "f-link~chicago~il~gbfs",
+      "id": "f-link~canary~islands~es~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/us_il_chicago/gbfs.json"
+        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/es_canary_islands/gbfs.json"
       }
     },
     {
@@ -3184,6 +3177,20 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/us_oh_columbus/gbfs.json"
+      }
+    },
+    {
+      "id": "f-link~constance~de~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/de_constance/gbfs.json"
+      }
+    },
+    {
+      "id": "f-link~corralejo~es~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/es_corralejo/gbfs.json"
       }
     },
     {
@@ -3215,6 +3222,20 @@
       }
     },
     {
+      "id": "f-link~fuerteventura~es~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/es_fuerteventura/gbfs.json"
+      }
+    },
+    {
+      "id": "f-link~giulianova~it~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/it_giulianova/gbfs.json"
+      }
+    },
+    {
       "id": "f-link~jacksonville~fl~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -3236,6 +3257,20 @@
       }
     },
     {
+      "id": "f-link~lisbon~pt~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/pt_lisbon/gbfs.json"
+      }
+    },
+    {
+      "id": "f-link~long~beach~ca~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/us_ca_long_beach/gbfs.json"
+      }
+    },
+    {
       "id": "f-link~los~angeles~ca~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -3250,6 +3285,13 @@
       }
     },
     {
+      "id": "f-link~moncalieri~it~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/it_moncalieri/gbfs.json"
+      }
+    },
+    {
       "id": "f-link~nuremberg~de~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -3261,6 +3303,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/us_ca_oakland/gbfs.json"
+      }
+    },
+    {
+      "id": "f-link~palermo~it~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/it_palermo/gbfs.json"
       }
     },
     {
@@ -3285,10 +3334,24 @@
       }
     },
     {
-      "id": "f-link~rota~es~gbfs",
+      "id": "f-link~regensburg~de~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/es_rota/gbfs.json"
+        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/de_regensburg/gbfs.json"
+      }
+    },
+    {
+      "id": "f-link~rome~it~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/it_rome/gbfs.json"
+      }
+    },
+    {
+      "id": "f-link~sacramento~ca~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/us_ca_sacramento/gbfs.json"
       }
     },
     {
@@ -3320,24 +3383,52 @@
       }
     },
     {
-      "id": "f-link~villaviciosa~de~odon~es~gbfs",
+      "id": "f-link~tenerife~es~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/es_villaviciosa_de_odon/gbfs.json"
+        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/es_tenerife/gbfs.json"
       }
     },
     {
-      "id": "f-link~zurich~ch~gbfs",
+      "id": "f-link~tenerife~sur~es~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/ch_zurich/gbfs.json"
+        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/es_tenerife_sur/gbfs.json"
       }
     },
     {
-      "id": "f-lisbon~pt~gbfs",
+      "id": "f-link~torrevieja~es~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/pt_lisbon/gbfs.json"
+        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/es_torrevieja/gbfs.json"
+      }
+    },
+    {
+      "id": "f-link~turin~it~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/it_turin/gbfs.json"
+      }
+    },
+    {
+      "id": "f-link~velez~malaga~canary~islands~es~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/es_velezmalaga/gbfs.json"
+      }
+    },
+    {
+      "id": "f-link~waco~tx~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/us_tx_waco/gbfs.json"
+      }
+    },
+    {
+      "id": "f-link~wurzburg~de~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/de_wurzburg/gbfs.json"
       }
     },
     {
@@ -3394,27 +3485,6 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.bcycle.com/bcycle_madison/gbfs.json"
-      }
-    },
-    {
-      "id": "f-madrid~es~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/es_madrid/gbfs.json"
-      }
-    },
-    {
-      "id": "f-malaga~es~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/es_malaga/gbfs.json"
-      }
-    },
-    {
-      "id": "f-mazara~del~vallo~it~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/it_mazara_del_vallo/gbfs.json"
       }
     },
     {
@@ -3502,13 +3572,6 @@
       }
     },
     {
-      "id": "f-modena~it~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/it_modena/gbfs.json"
-      }
-    },
-    {
       "id": "f-mogo~detroit~mi~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -3527,13 +3590,6 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://monaco.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
-      }
-    },
-    {
-      "id": "f-moncalieri~it~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/it_moncalieri/gbfs.json"
       }
     },
     {
@@ -3562,13 +3618,6 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_ll/gbfs.json"
-      }
-    },
-    {
-      "id": "f-nettuno~it~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/it_nettuno/gbfs.json"
       }
     },
     {
@@ -4405,13 +4454,6 @@
       }
     },
     {
-      "id": "f-palermo~it~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/it_palermo/gbfs.json"
-      }
-    },
-    {
       "id": "f-peacehealth~rides~eugene~or~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -4451,13 +4493,6 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://pittsburgh.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
-      }
-    },
-    {
-      "id": "f-pomezia~it~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/it_pomezia/gbfs.json"
       }
     },
     {
@@ -4759,13 +4794,6 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.gorevel.com/gbfs/v2/washingtondc/en/gbfs.json"
-      }
-    },
-    {
-      "id": "f-rome~it~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/it_rome/gbfs.json"
       }
     },
     {
@@ -5686,20 +5714,6 @@
       }
     },
     {
-      "id": "f-tenerife~es~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/es_tenerife/gbfs.json"
-      }
-    },
-    {
-      "id": "f-teramo~it~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/it_teramo/gbfs.json"
-      }
-    },
-    {
       "id": "f-tier~aachen~de~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -5784,13 +5798,6 @@
       }
     },
     {
-      "id": "f-turin~it~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/it_turin/gbfs.json"
-      }
-    },
-    {
       "id": "f-tyski~rower~miejski~poland~tychy~pl~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -5844,13 +5851,6 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://transport.data.gouv.fr/gbfs/vcub/gbfs.json"
-      }
-    },
-    {
-      "id": "f-vejer~de~la~frontera~es~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/es_vejer_de_la_frontera/gbfs.json"
       }
     },
     {
