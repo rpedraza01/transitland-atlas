@@ -2305,6 +2305,13 @@
       }
     },
     {
+      "id": "f-flamingo~dunedin~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://data.rideflamingo.com/gbfs/3/dunedin/gbfs.json"
+      }
+    },
+    {
       "id": "f-flamingo~palerston~north~palmerston~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -2351,6 +2358,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_df/gbfs.json"
+      }
+    },
+    {
+      "id": "f-getaround~stavanger~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://api.entur.io/mobility/v2/gbfs/v3/getaroundstavanger/gbfs"
       }
     },
     {
@@ -5634,6 +5648,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_vw/gbfs.json"
+      }
+    },
+    {
+      "id": "f-voi~arendal~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://api.entur.io/mobility/v2/gbfs/v3/voiarendal/gbfs"
       }
     },
     {
