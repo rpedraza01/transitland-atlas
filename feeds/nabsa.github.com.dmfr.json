@@ -5532,13 +5532,6 @@
       }
     },
     {
-      "id": "f-voi~brussels~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://api.voiapp.io/gbfs/be/7a4cb689-a2ee-409d-a5fe-49d2e8d50717/v2/gbfs.json"
-      }
-    },
-    {
       "id": "f-voi~karlsruhe~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -5563,7 +5556,7 @@
       "id": "f-voi~marseille~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.voiapp.io/gbfs/fr/6bb6b5dc-1cda-4da7-9216-d3023a0bc54a/gbfs.json"
+        "gbfs_auto_discovery": "https://api.voiapp.io/gbfs/fr/6bb6b5dc-1cda-4da7-9216-d3023a0bc54a/v2/66/gbfs.json"
       }
     },
     {
