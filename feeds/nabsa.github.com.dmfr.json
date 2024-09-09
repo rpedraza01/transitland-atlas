@@ -4104,6 +4104,13 @@
       }
     },
     {
+      "id": "f-nextbike~prishtina~xk~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_gs/gbfs.json"
+      }
+    },
+    {
       "id": "f-nextbike~prostejov~gbfs",
       "spec": "gbfs",
       "urls": {
