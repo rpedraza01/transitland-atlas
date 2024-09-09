@@ -3425,6 +3425,13 @@
       }
     },
     {
+      "id": "f-link~thessaloniki~gr~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://mds.linkyour.city/gbfs/gr_thessaloniki/gbfs.json"
+      }
+    },
+    {
       "id": "f-link~torrevieja~gbfs",
       "spec": "gbfs",
       "urls": {
