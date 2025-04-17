@@ -1283,6 +1283,13 @@
       }
     },
     {
+      "id": "f-bre~bike~bremen~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_bq/gbfs.json"
+      }
+    },
+    {
       "id": "f-broward~b~cycle~fort~lauderdale~fl~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -1371,13 +1378,6 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/car_ship/gbfs"
-      }
-    },
-    {
-      "id": "f-castletroy~bikes~(ireland)~castleroy~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_lm/gbfs.json"
       }
     },
     {
@@ -4608,6 +4608,13 @@
       }
     },
     {
+      "id": "f-flux~bikesharing~friedrichsdorf~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_ev/gbfs.json"
+      }
+    },
+    {
       "id": "f-fort~worth~bike~sharing~tx~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -4640,6 +4647,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.goabout.com/2/gbfs.json"
+      }
+    },
+    {
+      "id": "f-gothenburg~cargo~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_zc/gbfs.json"
       }
     },
     {
@@ -5987,6 +6001,13 @@
       }
     },
     {
+      "id": "f-mooinz~chur~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_ms/gbfs.json"
+      }
+    },
+    {
       "id": "f-movemix~bike~halle~de~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -6026,13 +6047,6 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/naturenergie_sharing/gbfs"
-      }
-    },
-    {
-      "id": "f-navan~bikes~(ireland)~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_ll/gbfs.json"
       }
     },
     {
@@ -6145,6 +6159,20 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_td/gbfs.json"
+      }
+    },
+    {
+      "id": "f-nextbike~be~vlaamse~rand~brussels~region~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_hf/gbfs.json"
+      }
+    },
+    {
+      "id": "f-nextbike~bicilog~logroño~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_ej/gbfs.json"
       }
     },
     {
@@ -6316,6 +6344,13 @@
       }
     },
     {
+      "id": "f-nextbike~kolín~kolin~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_ni/gbfs.json"
+      }
+    },
+    {
       "id": "f-nextbike~konya~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -6453,13 +6488,6 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_gs/gbfs.json"
-      }
-    },
-    {
-      "id": "f-nextbike~prostejov~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_cz/gbfs.json"
       }
     },
     {
@@ -7730,6 +7758,13 @@
       }
     },
     {
+      "id": "f-torrentbici~torrent~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_en/gbfs.json"
+      }
+    },
+    {
       "id": "f-trondheim~bysykkel~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -7741,6 +7776,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.bcycle.com/bcycle_truckee/gbfs.json"
+      }
+    },
+    {
+      "id": "f-tubabike~(barcelos)~barcelos~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_bx/gbfs.json"
       }
     },
     {
@@ -8111,7 +8153,7 @@
       "id": "f-vélocité~mulhouse~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.cyclocity.fr/contracts/mulhouse/gbfs/gbfs.json"
+        "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_af/gbfs.json"
       }
     },
     {
