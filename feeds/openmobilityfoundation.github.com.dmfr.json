@@ -2,11 +2,22 @@
   "$schema": "https://dmfr.transit.land/json-schema/dmfr.schema-v0.4.1.json",
   "feeds": [
     {
+      "id": "f-3km~mds",
+      "spec": "mds",
+      "urls": {
+        "mds_provider": "https://mds.ario.ai"
+      }
+    },
+    {
       "id": "f-atom~mobility~mds",
       "spec": "mds",
       "urls": {
         "mds_provider": "https://mds.rideatom.com/mds"
       }
+    },
+    {
+      "id": "f-bauer's~intelligent~transportation~mds",
+      "spec": "mds"
     },
     {
       "id": "f-baus~mds",
@@ -86,11 +97,39 @@
       }
     },
     {
+      "id": "f-cls~global~transportation~mds",
+      "spec": "mds"
+    },
+    {
+      "id": "f-compass~transportation~mds",
+      "spec": "mds"
+    },
+    {
+      "id": "f-corinthian~international~mds",
+      "spec": "mds"
+    },
+    {
+      "id": "f-deutsche~bahn~connect~mds",
+      "spec": "mds",
+      "urls": {
+        "gbfs_auto_discovery": "https://apis.deutschebahn.com/db-api-marketplace/apis/shared-mobility-gbfs/2-2/de/CallABike/gbfs/",
+        "mds_provider": "https://bike-prod.msp.dbrent.net/mds/"
+      }
+    },
+    {
       "id": "f-dott~mds",
       "spec": "mds",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com",
         "mds_provider": "https://mds.api.ridedott.com"
+      }
+    },
+    {
+      "id": "f-flamingo~mds",
+      "spec": "mds",
+      "urls": {
+        "gbfs_auto_discovery": "https://data.rideflamingo.com/gbfs/3/manifest.json",
+        "mds_provider": "https://data.rideflamingo.com/mds/"
       }
     },
     {
@@ -109,6 +148,14 @@
       }
     },
     {
+      "id": "f-gosharing~mds",
+      "spec": "mds",
+      "urls": {
+        "gbfs_auto_discovery": "https://complianceapi.binbinapp.com/api/gbfs/",
+        "mds_provider": "https://complianceapi.binbinapp.com/api/mds/"
+      }
+    },
+    {
       "id": "f-grin~mds",
       "spec": "mds",
       "urls": {
@@ -117,10 +164,21 @@
       }
     },
     {
+      "id": "f-hallcon~mds",
+      "spec": "mds"
+    },
+    {
       "id": "f-helbiz~mds",
       "spec": "mds",
       "urls": {
         "mds_provider": "https://mds.helbiz.com"
+      }
+    },
+    {
+      "id": "f-helloride~mds",
+      "spec": "mds",
+      "urls": {
+        "mds_provider": "https://mds-api.hellobike.com/mds/"
       }
     },
     {
@@ -136,6 +194,10 @@
       "urls": {
         "mds_provider": "https://api.uber.com/v0.2/emobility/mds"
       }
+    },
+    {
+      "id": "f-kaiser~permanente~mds",
+      "spec": "mds"
     },
     {
       "id": "f-kiwibot~mds",
@@ -168,6 +230,14 @@
       }
     },
     {
+      "id": "f-lux~bus~america~mds",
+      "spec": "mds"
+    },
+    {
+      "id": "f-lux~leasing~mds",
+      "spec": "mds"
+    },
+    {
       "id": "f-lyft~mds",
       "spec": "mds",
       "urls": {
@@ -180,6 +250,17 @@
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.movo.me",
         "mds_provider": "https://mds.movo.me"
+      }
+    },
+    {
+      "id": "f-mv~transportation~mds",
+      "spec": "mds"
+    },
+    {
+      "id": "f-mywheels~mds",
+      "spec": "mds",
+      "urls": {
+        "mds_provider": "https://mds.mywheels.nl"
       }
     },
     {
@@ -228,6 +309,21 @@
       }
     },
     {
+      "id": "f-royal~coach~tours~mds",
+      "spec": "mds"
+    },
+    {
+      "id": "f-samsara~mds",
+      "spec": "mds"
+    },
+    {
+      "id": "f-scooty~mds",
+      "spec": "mds",
+      "urls": {
+        "mds_provider": "https://oto-api.otoride.co/api/v2/mds/"
+      }
+    },
+    {
       "id": "f-scoot~mds",
       "spec": "mds",
       "urls": {
@@ -273,6 +369,17 @@
       }
     },
     {
+      "id": "f-starship~technologies~mds",
+      "spec": "mds",
+      "urls": {
+        "mds_provider": "https://mds-provider.starship.xyz/api/v1/mds/"
+      }
+    },
+    {
+      "id": "f-storer~mds",
+      "spec": "mds"
+    },
+    {
       "id": "f-superpedestrian~mds",
       "spec": "mds",
       "urls": {
@@ -286,6 +393,10 @@
         "gbfs_auto_discovery": "https://api.app.surf/gbfs/en",
         "mds_provider": "https://api.app.surf/mds"
       }
+    },
+    {
+      "id": "f-swoop~mds",
+      "spec": "mds"
     },
     {
       "id": "f-telofun~mds",
@@ -308,6 +419,14 @@
       "urls": {
         "mds_provider": "https://partner.tier-services.io/mds"
       }
+    },
+    {
+      "id": "f-trakk~mds",
+      "spec": "mds"
+    },
+    {
+      "id": "f-tripshot~mds",
+      "spec": "mds"
     },
     {
       "id": "f-troopy~mds",
@@ -339,6 +458,10 @@
         "gbfs_auto_discovery": "https://mds.voiapp.io/v1/gbfs",
         "mds_provider": "https://mds.voiapp.io"
       }
+    },
+    {
+      "id": "f-we~drive~u~inc~mds",
+      "spec": "mds"
     },
     {
       "id": "f-wheels~mds",
