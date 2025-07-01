@@ -499,10 +499,10 @@
       }
     },
     {
-      "id": "f-bilbaobizi~(bilbao)~bilbao~gbfs",
+      "id": "f-bilbao~bizi~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_bo/gbfs.json"
+        "gbfs_auto_discovery": "https://bilbao.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
       }
     },
     {
