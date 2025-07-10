@@ -2417,6 +2417,13 @@
       }
     },
     {
+      "id": "f-dott~as~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/as/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~athens~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -2571,6 +2578,13 @@
       }
     },
     {
+      "id": "f-dott~bremerhaven~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/bremerhaven/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~bristol~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -2596,6 +2610,20 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/brussels/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~brzeg~dolny~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/brzeg-dolny/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~brzeg~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/brzeg/gbfs.json"
       }
     },
     {
@@ -2711,6 +2739,13 @@
       }
     },
     {
+      "id": "f-dott~częstochowa~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/czestochowa/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~darmstadt~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -2795,10 +2830,24 @@
       }
     },
     {
+      "id": "f-dott~dziwnów~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/dziwnow/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~eindhoven~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/eindhoven/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~ekenäs~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/tammisaari/gbfs.json"
       }
     },
     {
@@ -2963,6 +3012,13 @@
       }
     },
     {
+      "id": "f-dott~grado~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/grado/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~greifswald~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -3030,6 +3086,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/hamm/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~hanko~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/hanko/gbfs.json"
       }
     },
     {
@@ -3103,6 +3166,13 @@
       }
     },
     {
+      "id": "f-dott~herzliya~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/herzliya/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~hilden~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -3128,6 +3198,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/hyvinkaa/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~höganäs~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/hoganas/gbfs.json"
       }
     },
     {
@@ -3194,6 +3271,13 @@
       }
     },
     {
+      "id": "f-dott~jelenia~góra~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/jelenia-gora/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~jena~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -3233,6 +3317,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/kaiserslautern/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~kajaani~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/kajaani/gbfs.json"
       }
     },
     {
@@ -3369,6 +3460,13 @@
       }
     },
     {
+      "id": "f-dott~krynica~morska~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/krynica-morska/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~kuopio~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -3415,6 +3513,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/lebork/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~lecco~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/lecco/gbfs.json"
       }
     },
     {
@@ -3544,6 +3649,13 @@
       }
     },
     {
+      "id": "f-dott~malvik~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/malvik/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~mannheim~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -3565,10 +3677,31 @@
       }
     },
     {
+      "id": "f-dott~melhus~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/melhus/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~michalovce~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/michalovce/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~mielno~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/mielno/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~mikkeli~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/mikkeli/gbfs.json"
       }
     },
     {
@@ -3681,6 +3814,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/munster/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~naantali~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/naantali/gbfs.json"
       }
     },
     {
@@ -3929,6 +4069,13 @@
       }
     },
     {
+      "id": "f-dott~pápa~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/papa/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~raisio~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -3940,6 +4087,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/ras-al-khaimah/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~rauma~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/rauma/gbfs.json"
       }
     },
     {
@@ -3961,6 +4115,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/reggio-emilia/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~region~hovedstaden~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/region-h/gbfs.json"
       }
     },
     {
@@ -3992,6 +4153,13 @@
       }
     },
     {
+      "id": "f-dott~riihimäki~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/riihimaki/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~riyadh~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -4010,6 +4178,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/rome/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~roskilde~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/roskilde/gbfs.json"
       }
     },
     {
@@ -4041,6 +4216,13 @@
       }
     },
     {
+      "id": "f-dott~saint~anton~am~arlberg~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/sankt-anton-am-arlberg/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~salo~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -4069,10 +4251,24 @@
       }
     },
     {
+      "id": "f-dott~schwäbisch~gmünd~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/schwabisch-gmund/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~seinajoki~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/seinajoki/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~serfaus~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/serfaus/gbfs.json"
       }
     },
     {
@@ -4115,6 +4311,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/skovde/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~sobieszewo~island~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/sobieszewo-island/gbfs.json"
       }
     },
     {
@@ -4237,6 +4440,27 @@
       }
     },
     {
+      "id": "f-dott~thessaloniki~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/thessaloniki/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~tignes~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/tignes/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~toruń~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/torun/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~trento~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -4300,10 +4524,24 @@
       }
     },
     {
+      "id": "f-dott~ullensaker~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/ullensaker/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~ulm~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/ulm/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~ustka~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/ustka/gbfs.json"
       }
     },
     {
@@ -4458,6 +4696,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/uberlingen/gbfs.json"
+      }
+    },
+    {
+      "id": "f-dott~łeba~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/łeba/gbfs.json"
       }
     },
     {
