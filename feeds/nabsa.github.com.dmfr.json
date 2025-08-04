@@ -8122,6 +8122,13 @@
       }
     },
     {
+      "id": "f-trinity~metro~bikes~fort~worth~tx~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://fortworth.publicbikesystem.net/customer/gbfs/v2/gbfs.json"
+      }
+    },
+    {
       "id": "f-trondheim~bysykkel~gbfs",
       "spec": "gbfs",
       "urls": {
