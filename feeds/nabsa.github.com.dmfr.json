@@ -2662,13 +2662,6 @@
       }
     },
     {
-      "id": "f-dott~basildon~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/basildon/gbfs.json"
-      }
-    },
-    {
       "id": "f-dott~bath~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -2855,13 +2848,6 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/cagliari/gbfs.json"
-      }
-    },
-    {
-      "id": "f-dott~casgbs~communauté~d'agglomération~saint~germain~boucles~de~seine~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/casgbs/gbfs.json"
       }
     },
     {
@@ -3219,13 +3205,6 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/greifswald/gbfs.json"
-      }
-    },
-    {
-      "id": "f-dott~grenoble~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/grenoble/gbfs.json"
       }
     },
     {
@@ -3863,13 +3842,6 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/martin/gbfs.json"
-      }
-    },
-    {
-      "id": "f-dott~meerbusch~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/meerbusch/gbfs.json"
       }
     },
     {
@@ -4920,13 +4892,6 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/zory/gbfs.json"
-      }
-    },
-    {
-      "id": "f-dott~žiar~nad~hronom~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/ziar-nad-hronom/gbfs.json"
       }
     },
     {
