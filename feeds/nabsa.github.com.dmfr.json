@@ -4944,13 +4944,6 @@
       }
     },
     {
-      "id": "f-gmünd~bewegt!~schwäbisch~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v2/gmuend_bewegt/gbfs"
-      }
-    },
-    {
       "id": "f-goabout~netherlands~gbfs",
       "spec": "gbfs",
       "urls": {
