@@ -1612,13 +1612,6 @@
       }
     },
     {
-      "id": "f-coono~e~carsharing~tübingen~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/coono/gbfs"
-      }
-    },
-    {
       "id": "f-cycl'am~ardenne~métropole~gbfs",
       "spec": "gbfs",
       "urls": {
