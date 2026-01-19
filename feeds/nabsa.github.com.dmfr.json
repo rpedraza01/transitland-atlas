@@ -6050,13 +6050,6 @@
       }
     },
     {
-      "id": "f-neuron~mobility~\tedmonton~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://mds.neuron-mobility.com/yeg/gbfs/2/"
-      }
-    },
-    {
       "id": "f-neuron~mobility~airdrie~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -6075,6 +6068,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://mds.neuron-mobility.com/yyc/gbfs/2/"
+      }
+    },
+    {
+      "id": "f-neuron~mobility~edmonton~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://mds.neuron-mobility.com/yeg/gbfs/2/"
       }
     },
     {
