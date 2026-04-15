@@ -4986,6 +4986,13 @@
       }
     },
     {
+      "id": "f-euregiobike~aachen~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_an/gbfs.json"
+      }
+    },
+    {
       "id": "f-evie~carshare~twin~cities~mn~gbfs",
       "spec": "gbfs",
       "urls": {
