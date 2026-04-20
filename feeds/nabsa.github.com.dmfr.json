@@ -1388,6 +1388,13 @@
       }
     },
     {
+      "id": "f-bycor~tarare~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://www.mobility-parc.net/gbfs/v3/TARARE/gbfs.json"
+      }
+    },
+    {
       "id": "f-bysykkel~lillestrom~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -1756,6 +1763,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.bcycle.com/bcycle_clemson/gbfs.json"
+      }
+    },
+    {
+      "id": "f-clem~france~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.clem.mobi/gbfs.json"
       }
     },
     {
@@ -4615,13 +4629,6 @@
       }
     },
     {
-      "id": "f-dott~tignes~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/tignes/gbfs.json"
-      }
-    },
-    {
       "id": "f-dott~toruń~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -4983,6 +4990,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://di.esel.ac/gbfs/gbfs.json"
+      }
+    },
+    {
+      "id": "f-estrées~saint~denis~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://www.mobility-parc.net/gbfs/v3/ESTREES/gbfs.json"
       }
     },
     {
@@ -6071,6 +6085,13 @@
       }
     },
     {
+      "id": "f-lime~lille~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://data.lime.bike/api/partners/v2/gbfs/lille/gbfs.json"
+      }
+    },
+    {
       "id": "f-lime~lincoln~ne~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -6453,6 +6474,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://monaco.publicbikesystem.net/customer/gbfs/v3.0/gbfs.json"
+      }
+    },
+    {
+      "id": "f-montenvélo~mont~blanc~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.partners.fifteen.eu/gbfs/2.2/mont_blanc/en/gbfs.json"
       }
     },
     {
@@ -7149,10 +7177,24 @@
       }
     },
     {
+      "id": "f-pays~d'opale~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://www.mobility-parc.net/gbfs/v3/Opale/gbfs.json"
+      }
+    },
+    {
       "id": "f-pays~de~l'arbresle~vel'par~courzieu~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://www.mobility-parc.net/gbfs/v3/ARBRESLE/gbfs.json"
+      }
+    },
+    {
+      "id": "f-pays~du~coquelicot~albert~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://www.mobility-parc.net/gbfs/v3/COQUELICOT/gbfs.json"
       }
     },
     {
@@ -7208,35 +7250,35 @@
       "id": "f-pony~angers~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://gbfs.getapony.com/v1/angers/en/gbfs.json?key=AIzaSyBMkR2fCYvZZC22Ls5A5wJQRwDERao07Nc"
+        "gbfs_auto_discovery": "https://proxy.transport.data.gouv.fr/resource/pony-angers-gbfs/gbfs.json"
       }
     },
     {
       "id": "f-pony~basque~country~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://gbfs.getapony.com/v1/basque_country/en/gbfs.json?key=AIzaSyBMkR2fCYvZZC22Ls5A5wJQRwDERao07Nc"
+        "gbfs_auto_discovery": "https://proxy.transport.data.gouv.fr/resource/pony-pays-basque-gbfs/gbfs.json"
       }
     },
     {
       "id": "f-pony~beauvais~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://gbfs.getapony.com/v1/beauvais/en/gbfs.json?key=AIzaSyBMkR2fCYvZZC22Ls5A5wJQRwDERao07Nc"
+        "gbfs_auto_discovery": "https://proxy.transport.data.gouv.fr/resource/pony-beauvais-gbfs/gbfs.json"
       }
     },
     {
       "id": "f-pony~bordeaux~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://gbfs.getapony.com/v1/bordeaux/en/gbfs.json?key=AIzaSyBMkR2fCYvZZC22Ls5A5wJQRwDERao07Nc"
+        "gbfs_auto_discovery": "https://proxy.transport.data.gouv.fr/resource/pony-bordeaux-gbfs/gbfs.json"
       }
     },
     {
       "id": "f-pony~bourges~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://gbfs.getapony.com/v1/bourges/en/gbfs.json?key=AIzaSyBMkR2fCYvZZC22Ls5A5wJQRwDERao07Nc"
+        "gbfs_auto_discovery": "https://proxy.transport.data.gouv.fr/resource/pony-bourges-gbfs/gbfs.json"
       }
     },
     {
@@ -7257,28 +7299,21 @@
       "id": "f-pony~evry~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://gbfs.getapony.com/v1/evry/en/gbfs.json?key=AIzaSyBMkR2fCYvZZC22Ls5A5wJQRwDERao07Nc"
+        "gbfs_auto_discovery": "https://proxy.transport.data.gouv.fr/resource/pony-evry-gbfs/gbfs.json"
       }
     },
     {
       "id": "f-pony~herouville~saint~clair~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://gbfs.getapony.com/v1/herouville/en/gbfs.json?key=AIzaSyBMkR2fCYvZZC22Ls5A5wJQRwDERao07Nc"
-      }
-    },
-    {
-      "id": "f-pony~la~roche~sur~yon~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.getapony.com/v1/la_roche_sur_yon/en/gbfs.json?key=AIzaSyBMkR2fCYvZZC22Ls5A5wJQRwDERao07Nc"
+        "gbfs_auto_discovery": "https://proxy.transport.data.gouv.fr/resource/pony-herouville-gbfs/gbfs.json"
       }
     },
     {
       "id": "f-pony~limoges~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://gbfs.getapony.com/v1/limoges/en/gbfs.json?key=AIzaSyBMkR2fCYvZZC22Ls5A5wJQRwDERao07Nc"
+        "gbfs_auto_discovery": "https://proxy.transport.data.gouv.fr/resource/pony-limoges-gbfs/gbfs.json"
       }
     },
     {
@@ -7292,35 +7327,28 @@
       "id": "f-pony~lorient~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://gbfs.getapony.com/v1/lorient/en/gbfs.json?key=AIzaSyBMkR2fCYvZZC22Ls5A5wJQRwDERao07Nc"
+        "gbfs_auto_discovery": "https://proxy.transport.data.gouv.fr/resource/pony-lorient-gbfs/gbfs.json"
       }
     },
     {
       "id": "f-pony~nice~fr~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://gbfs.getapony.com/v1/nice/en/gbfs.json?key=AIzaSyBMkR2fCYvZZC22Ls5A5wJQRwDERao07Nc"
-      }
-    },
-    {
-      "id": "f-pony~paris~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.getapony.com/v1/paris/en/gbfs.json?key=AIzaSyBMkR2fCYvZZC22Ls5A5wJQRwDERao07Nc"
+        "gbfs_auto_discovery": "https://proxy.transport.data.gouv.fr/resource/pony-nice-gbfs/gbfs.json"
       }
     },
     {
       "id": "f-pony~perpignan~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://gbfs.getapony.com/v1/perpignan/en/gbfs.json?key=AIzaSyBMkR2fCYvZZC22Ls5A5wJQRwDERao07Nc"
+        "gbfs_auto_discovery": "https://proxy.transport.data.gouv.fr/resource/pony-perpignan-gbfs/gbfs.json"
       }
     },
     {
       "id": "f-pony~poitiers~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://gbfs.getapony.com/v1/poitiers/en/gbfs.json?key=AIzaSyBMkR2fCYvZZC22Ls5A5wJQRwDERao07Nc"
+        "gbfs_auto_discovery": "https://proxy.transport.data.gouv.fr/resource/pony-poitiers-gbfs/gbfs.json"
       }
     },
     {
@@ -8710,10 +8738,24 @@
       }
     },
     {
+      "id": "f-vélomagg~montpellier~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.theta.fifteen.eu/gbfs/montpellier/gbfs.json"
+      }
+    },
+    {
       "id": "f-vélomodalis~terra~royan~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.partners.fifteen.eu/gbfs/2.2/velo-modalis/en/gbfs.json"
+      }
+    },
+    {
+      "id": "f-vélomoove~pompey~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.partners.fifteen.eu/gbfs/2.2/pompey/en/gbfs.json"
       }
     },
     {
