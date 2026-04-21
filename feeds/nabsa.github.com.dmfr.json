@@ -352,13 +352,6 @@
       }
     },
     {
-      "id": "f-bicimad~(unofficial)~madrid~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.bici.madrid/gbfs.json"
-      }
-    },
-    {
       "id": "f-bicimad~madrid~gbfs",
       "spec": "gbfs",
       "urls": {
