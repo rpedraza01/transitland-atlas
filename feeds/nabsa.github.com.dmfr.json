@@ -2515,13 +2515,6 @@
       }
     },
     {
-      "id": "f-donkey~republic~tuttlingen~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://stables.donkey.bike/api/public/gbfs/3.0/Tuttlingen/gbfs.json"
-      }
-    },
-    {
       "id": "f-donkey~republic~utrechtse~heuvelrug~gbfs",
       "spec": "gbfs",
       "urls": {
