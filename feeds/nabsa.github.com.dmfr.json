@@ -3138,6 +3138,13 @@
       }
     },
     {
+      "id": "f-dott~frederikssund~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/frederikssund/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~friedrichshafen~gbfs",
       "spec": "gbfs",
       "urls": {
