@@ -3551,6 +3551,13 @@
       }
     },
     {
+      "id": "f-dott~kalajoki~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/kalajoki/gbfs.json"
+      }
+    },
+    {
       "id": "f-dott~kalisz~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -5381,7 +5388,7 @@
       "id": "f-ganxeta~reus~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://gbfs.ganxeta.cat/v2/gbfs.json"
+        "gbfs_auto_discovery": "https://gbfs.ganxeta.cat/v3/gbfs.json"
       }
     },
     {
@@ -9246,6 +9253,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_en/gbfs.json"
+      }
+    },
+    {
+      "id": "f-toruński~rower~miejski~toruń~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_tr/gbfs.json"
       }
     },
     {
