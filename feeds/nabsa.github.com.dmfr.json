@@ -5371,13 +5371,6 @@
       }
     },
     {
-      "id": "f-franke~ludwigsburg~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/lube/gbfs"
-      }
-    },
-    {
       "id": "f-frelo~freiburg~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -7356,6 +7349,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://data.lime.bike/api/partners/v2/gbfs/seattle/gbfs.json"
+      }
+    },
+    {
+      "id": "f-lime~sophia~antipolis~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://data.lime.bike/api/partners/v2/gbfs/casa/gbfs.json"
       }
     },
     {
@@ -10033,6 +10033,13 @@
       }
     },
     {
+      "id": "f-vélo~modalis~saintes~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.partners.fifteen.eu/gbfs/2.2/saintes/en/gbfs.json"
+      }
+    },
+    {
       "id": "f-vélo~tanlib~niort~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -10177,6 +10184,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://yoio.rideatom.com/gbfs/9/v3.0/gbfs"
+      }
+    },
+    {
+      "id": "f-yélo~la~rochelle~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://opendata.agglo-larochelle.fr/sites/default/files/dataset/2dc/df9ac-ca89-4e3f-af7e-5d75f255ee5e/gbfs.json"
       }
     },
     {
