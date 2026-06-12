@@ -1489,7 +1489,7 @@
       "id": "f-car~ship~constance~gbfs",
       "spec": "gbfs",
       "urls": {
-        "gbfs_auto_discovery": "https://api.mobidata-bw.de/sharing/gbfs/v3/car_ship/gbfs"
+        "gbfs_auto_discovery": "https://app.car-ship.jetzt/gbfs/2.3/gbfs"
       }
     },
     {
