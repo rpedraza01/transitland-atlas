@@ -9116,7 +9116,7 @@
       }
     },
     {
-      "id": "f-stadtradlueneburg~lübeburg~gbfs",
+      "id": "f-stadtradlueneburg~lüneburg~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://apis.deutschebahn.com/db-api-marketplace/apis/shared-mobility-gbfs/v2/de/StadtRADLueneburg/gbfs"
@@ -10061,7 +10061,7 @@
       }
     },
     {
-      "id": "f-welo~gbfs",
+      "id": "f-welo~bonn~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.nextbike.net/maps/gbfs/v2/nextbike_wa/gbfs.json"
