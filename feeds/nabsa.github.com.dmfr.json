@@ -1150,13 +1150,6 @@
       }
     },
     {
-      "id": "f-bird~zaragoza~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://mds.bird.co/gbfs/v2/public/zaragoza/gbfs.json"
-      }
-    },
-    {
       "id": "f-bird~zurich~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -1514,6 +1507,13 @@
       }
     },
     {
+      "id": "f-check~technologies~amstelveen~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://api.ridecheck.app/gbfs/v3/amstelveen/gbfs.json"
+      }
+    },
+    {
       "id": "f-check~technologies~amsterdam~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -1546,6 +1546,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://api.ridecheck.app/gbfs/v3/denhaag/gbfs.json"
+      }
+    },
+    {
+      "id": "f-check~technologies~diemen~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://api.ridecheck.app/gbfs/v3/diemen/gbfs.json"
       }
     },
     {
@@ -1630,6 +1637,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://api.ridecheck.app/gbfs/v3/vlaardingen/gbfs.json"
+      }
+    },
+    {
+      "id": "f-check~technologies~zaandam~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://api.ridecheck.app/gbfs/v3/zaandam/gbfs.json"
       }
     },
     {
@@ -9970,13 +9984,6 @@
       }
     },
     {
-      "id": "f-vélomodalis~terra~royan~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.partners.fifteen.eu/gbfs/2.2/velo-modalis/en/gbfs.json"
-      }
-    },
-    {
       "id": "f-vélomoove~pompey~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -10030,6 +10037,20 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.partners.fifteen.eu/gbfs/2.2/angouleme/en/gbfs.json"
+      }
+    },
+    {
+      "id": "f-vélo~modalis~grand~cognac~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.partners.fifteen.eu/gbfs/2.2/velo-modalis/en/gbfs.json"
+      }
+    },
+    {
+      "id": "f-vélo~modalis~royan~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.partners.fifteen.eu/gbfs/2.2/modalis-royan/en/gbfs.json"
       }
     },
     {
