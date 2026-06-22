@@ -618,6 +618,13 @@
       }
     },
     {
+      "id": "f-bird~blois~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://mds.bird.co/gbfs/v2/public/provider/bird/blois-france/gbfs.json"
+      }
+    },
+    {
       "id": "f-bird~bordeaux~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -8654,17 +8661,17 @@
       }
     },
     {
-      "id": "f-ryde_oslo~oslo~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://api.entur.io/mobility/v2/gbfs/v3/rydeoslo/gbfs"
-      }
-    },
-    {
       "id": "f-ryde~fredrikstad~gbfs",
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://api.entur.io/mobility/v2/gbfs/v3/rydefredrikstad/gbfs"
+      }
+    },
+    {
+      "id": "f-ryde~oslo~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://api.entur.io/mobility/v2/gbfs/v3/rydeoslo/gbfs"
       }
     },
     {
@@ -8721,6 +8728,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://api.entur.io/mobility/v2/gbfs/v3/rydetonsberg/gbfs"
+      }
+    },
+    {
+      "id": "f-ryde~ålesund~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://api.entur.io/mobility/v2/gbfs/v3/rydeaalesund/gbfs"
       }
     },
     {
