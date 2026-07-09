@@ -101,6 +101,10 @@
       "spec": "mds"
     },
     {
+      "id": "f-code3~mds",
+      "spec": "mds"
+    },
+    {
       "id": "f-compass~transportation~mds",
       "spec": "mds"
     },
@@ -117,11 +121,23 @@
       }
     },
     {
+      "id": "f-doordash~mds",
+      "spec": "mds"
+    },
+    {
       "id": "f-dott~mds",
       "spec": "mds",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com",
         "mds_provider": "https://mds.api.ridedott.com"
+      }
+    },
+    {
+      "id": "f-drop~mobility~mds",
+      "spec": "mds",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.dropmobility.com",
+        "mds_provider": "https://mds.dropmobility.com"
       }
     },
     {
@@ -133,11 +149,22 @@
       }
     },
     {
+      "id": "f-flexigo~mds",
+      "spec": "mds"
+    },
+    {
       "id": "f-gbike~mds",
       "spec": "mds",
       "urls": {
         "gbfs_auto_discovery": "https://mds.gcoo.io/gbfs",
         "mds_provider": "https://mds.gcoo.io/"
+      }
+    },
+    {
+      "id": "f-getaround~mds",
+      "spec": "mds",
+      "urls": {
+        "gbfs_auto_discovery": "https://api-eu.getaround.com/gbfs/manifest?country_code=FR"
       }
     },
     {
@@ -156,12 +183,20 @@
       }
     },
     {
+      "id": "f-greenwheels~mds",
+      "spec": "mds"
+    },
+    {
       "id": "f-grin~mds",
       "spec": "mds",
       "urls": {
         "gbfs_auto_discovery": "https://open-data.grow.mobi/api/v1/gbfs/",
         "mds_provider": "https://open-data.grow.mobi/mds/"
       }
+    },
+    {
+      "id": "f-grubhub~mds",
+      "spec": "mds"
     },
     {
       "id": "f-hallcon~mds",
@@ -186,6 +221,13 @@
       "spec": "mds",
       "urls": {
         "mds_provider": "https://gbfs.hopr.city/api/mds"
+      }
+    },
+    {
+      "id": "f-hop~mds",
+      "spec": "mds",
+      "urls": {
+        "mds_provider": "https://api.hoplagit.com/mds/"
       }
     },
     {
@@ -245,6 +287,10 @@
       }
     },
     {
+      "id": "f-mosaic~global~mds",
+      "spec": "mds"
+    },
+    {
       "id": "f-movo~mds",
       "spec": "mds",
       "urls": {
@@ -268,7 +314,7 @@
       "spec": "mds",
       "urls": {
         "gbfs_auto_discovery": "https://api.nextbike.net/maps/gbfs/",
-        "mds_provider": "https://platform-services.tier-services.io/data-sharing/mds/"
+        "mds_provider": "https://mds-provider-api.nextbike.net"
       }
     },
     {
@@ -278,6 +324,10 @@
         "gbfs_auto_discovery": "https://api.ojoelectric.com/api/mds/gbfs.json",
         "mds_provider": "https://api.ojoelectric.com/api/mds"
       }
+    },
+    {
+      "id": "f-peak~transit~mds",
+      "spec": "mds"
     },
     {
       "id": "f-pony~mds",
@@ -355,6 +405,14 @@
       }
     },
     {
+      "id": "f-sixt~mds",
+      "spec": "mds",
+      "urls": {
+        "gbfs_auto_discovery": "https://api.orange.sixt.com/v1/share-third-party-sources/gbfs",
+        "mds_provider": "https://api.orange.sixt.com/v1/share-third-party-sources/mds"
+      }
+    },
+    {
       "id": "f-skip~mds",
       "spec": "mds",
       "urls": {
@@ -421,7 +479,15 @@
       }
     },
     {
+      "id": "f-track~my~shuttle~mds",
+      "spec": "mds"
+    },
+    {
       "id": "f-trakk~mds",
+      "spec": "mds"
+    },
+    {
+      "id": "f-transwest~mds",
       "spec": "mds"
     },
     {
