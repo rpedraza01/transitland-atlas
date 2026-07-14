@@ -2697,13 +2697,6 @@
       }
     },
     {
-      "id": "f-dott~baunatal~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/baunatal/gbfs.json"
-      }
-    },
-    {
       "id": "f-dott~bergamo~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -3156,13 +3149,6 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/flensburg/gbfs.json"
-      }
-    },
-    {
-      "id": "f-dott~frankfurt~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/frankfurt/gbfs.json"
       }
     },
     {
@@ -4279,13 +4265,6 @@
       }
     },
     {
-      "id": "f-dott~pinneberg~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/pinneberg/gbfs.json"
-      }
-    },
-    {
       "id": "f-dott~police~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -4549,13 +4528,6 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/sbf/gbfs.json"
-      }
-    },
-    {
-      "id": "f-dott~schwäbisch~gmünd~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/schwabisch-gmund/gbfs.json"
       }
     },
     {
@@ -4997,13 +4969,6 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/wrocław/gbfs.json"
-      }
-    },
-    {
-      "id": "f-dott~wuppertal~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/wuppertal/gbfs.json"
       }
     },
     {
