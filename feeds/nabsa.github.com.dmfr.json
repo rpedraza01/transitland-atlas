@@ -3894,13 +3894,6 @@
       }
     },
     {
-      "id": "f-dott~mainz~gbfs",
-      "spec": "gbfs",
-      "urls": {
-        "gbfs_auto_discovery": "https://gbfs.api.ridedott.com/public/v2/mainz/gbfs.json"
-      }
-    },
-    {
       "id": "f-dott~makkah~gbfs",
       "spec": "gbfs",
       "urls": {
