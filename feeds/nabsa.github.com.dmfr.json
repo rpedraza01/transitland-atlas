@@ -16,6 +16,13 @@
       }
     },
     {
+      "id": "f-7~vallées~vélo~marconne~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://api.gbfs.v3.0.ecovelo.mobi/7vallees/gbfs.json"
+      }
+    },
+    {
       "id": "f-aar~bike~konya~gbfs",
       "spec": "gbfs",
       "urls": {
@@ -1826,6 +1833,13 @@
       "spec": "gbfs",
       "urls": {
         "gbfs_auto_discovery": "https://backend.citiz.fr/public/provider/22/gbfs/3.0/gbfs.json"
+      }
+    },
+    {
+      "id": "f-cité~cycle~saint~flour~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://api.gbfs.v3.0.ecovelo.mobi/citecycle/gbfs.json"
       }
     },
     {
