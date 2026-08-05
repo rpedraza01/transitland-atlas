@@ -1409,6 +1409,13 @@
       }
     },
     {
+      "id": "f-bubi~3~0~budapest~gbfs",
+      "spec": "gbfs",
+      "urls": {
+        "gbfs_auto_discovery": "https://gbfs.urbansharing.com/molbubi.hu/gbfs.json"
+      }
+    },
+    {
       "id": "f-bublr~bikes~milwaukee~wi~gbfs",
       "spec": "gbfs",
       "urls": {
